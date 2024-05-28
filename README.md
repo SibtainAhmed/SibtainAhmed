@@ -9,7 +9,7 @@
 
 </div> -->
 
-A senior year Computer Systems Engineering student at NED University, Karachi. Skilled in a variety of languages, tools, and platforms with strong logic building and problem solving skills. Have worked as Associate Software Engineer.
+A senior year Computer Systems Engineering student at NED University, Karachi. Skilled in a variety of languages, tools, and platforms with strong logic building and problem-solving skills. Have worked as an Associate Software Engineer.
 
 
 <a href="https://github.com/SibtainAhmed">
@@ -21,6 +21,8 @@ A senior year Computer Systems Engineering student at NED University, Karachi. S
 <!-- ABOUT ME -->
 ## About Me
 
+<img align = "right" alt = "coding" width = "300"  src = "https://github.com/qasim-you/qasim-you/blob/main/img.gif">
+
 - 🌏 I'm currently based in Karachi, Pakistan
 - 🔭 I have worked as a Senior Software Engineer at <a href="https://www.koderlabs.com" target="blank">KoderLabs</a>
 - 🏗️ Working on mobile and web development projects
@@ -28,8 +30,8 @@ A senior year Computer Systems Engineering student at NED University, Karachi. S
 -  💬 Actively participate in coding competitions
 - 📫 How to reach me **<IamSibtainAhmed@gmail.com>**
 
-<!-- EXPERTISE -->
-## Tech Stack
+
+# Tech Stack
 
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -82,7 +84,9 @@ A senior year Computer Systems Engineering student at NED University, Karachi. S
      <img width="70%" src="https://leetcard.jacoblin.cool/SibtainAhmed?ext=heatmap" /> 
  </div>
  
-<br>
+<be>
+
+
 
 <!--
 ## Advent of Code 
