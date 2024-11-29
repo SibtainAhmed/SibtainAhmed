@@ -23,10 +23,9 @@ A senior year Computer Systems Engineering student at NED University, Karachi. S
 
 <img align = "right" alt = "coding" width = "300"  src = "https://github.com/qasim-you/qasim-you/blob/main/img.gif">
 
+- 🔭 I am working as a Software Engineer at <a href="https://www.goodcore.co.uk/" target="blank">GoodCore</a>
 - 🌏 I'm currently based in Karachi, Pakistan
-- 🔭 I have worked as a Senior Software Engineer at <a href="https://www.koderlabs.com" target="blank">KoderLabs</a>
-- 🏗️ Working on mobile and web development projects
-- 🌱 Currently exploring world of **Quantum Computing**
+- 🏗️ Working on AI/ML projects.
 -  💬 Actively participate in coding competitions
 - 📫 How to reach me **<IamSibtainAhmed@gmail.com>**
 
