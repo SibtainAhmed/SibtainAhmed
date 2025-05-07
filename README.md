@@ -25,7 +25,6 @@ A senior year Computer Systems Engineering student at NED University, Karachi. S
 
 - 🔭 I am working as a Software Engineer at <a href="https://www.goodcore.co.uk/" target="blank">GoodCore</a>
 - 🌏 I'm currently based in Karachi, Pakistan
-- 🏗️ Working on AI/ML projects.
 -  💬 Actively participate in coding competitions
 - 📫 How to reach me **<IamSibtainAhmed@gmail.com>**
 
