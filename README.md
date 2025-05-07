@@ -1,6 +1,6 @@
 <!-- INTRODUCTION -->
 <h1 align="center">Hi there, I'm Sibtain 👋</h1>
-<h3 align="center">Computer Systems Engineer | React | React Native | TypeScript | Python</h3>
+<h3 align="center">Computer Systems Engineer | Computer Optimization | React | Laravel | Python</h3>
 
 <!-- PROFILE BADGES
 <div align="center">
@@ -9,7 +9,7 @@
 
 </div> -->
 
-A senior year Computer Systems Engineering student at NED University, Karachi. Skilled in a variety of languages, tools, and platforms with strong logic building and problem-solving skills. Have worked as an Associate Software Engineer.
+A Computer Systems Engineer of NED UET, Karachi. Skilled in a variety of languages, tools, and platforms with strong logic building and problem-solving skills.
 
 
 <a href="https://github.com/SibtainAhmed">
