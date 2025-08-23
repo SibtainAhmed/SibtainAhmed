@@ -1,6 +1,6 @@
 <!-- INTRODUCTION -->
 <h1 align="center">Hi there, I'm Sibtain 👋</h1>
-<h3 align="center">Computer Systems Engineer | Computer Optimization | React | Laravel | Python</h3>
+<h3 align="center">Graduate Student @ Iowa State University | Reinforcement Learning | AI Software Engineer </h3>
 
 <!-- PROFILE BADGES
 <div align="center">
@@ -9,8 +9,8 @@
 
 </div> -->
 
-A Computer Systems Engineer of NED UET, Karachi. Skilled in a variety of languages, tools, and platforms with strong logic building and problem-solving skills.
-
+A Computer Systems Engineer from **NED UET, Karachi**, now pursuing graduate studies in **Computer Science at Iowa State University** with a research focus on **Reinforcement Learning**.  
+Skilled across AI, backend, and frontend development, with strong problem-solving and logic-building abilities.  
 
 <a href="https://github.com/SibtainAhmed">
     <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=SibtainAhmed&data=followers,repositories,stars,commits&theme=rgb">
@@ -21,33 +21,14 @@ A Computer Systems Engineer of NED UET, Karachi. Skilled in a variety of languag
 <!-- ABOUT ME -->
 ## About Me
 
-<img align = "right" alt = "coding" width = "300"  src = "https://github.com/qasim-you/qasim-you/blob/main/img.gif">
+<img align="right" alt="coding" width="300" src="https://github.com/qasim-you/qasim-you/blob/main/img.gif">
 
-- 🔭 I am working as a Software Engineer at <a href="https://www.goodcore.co.uk/" target="blank">GoodCore</a>
-- 🌏 I'm currently based in Karachi, Pakistan
--  💬 Actively participate in coding competitions
-- 📫 How to reach me **<IamSibtainAhmed@gmail.com>**
-
-<be>
-<be>
-<be>
-<be>
-    
-# Tech Stack
-
-<div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
-          
-</div>
-
-
-
+- 🔭 Graduate Student in Computer Science @ **Iowa State University**  
+- 🧑‍💻 Former AI Software Engineer at [GoodCore](https://www.goodcore.co.uk/)  
+- 🌱 Researching **Reinforcement Learning** & intelligent systems  
+- 💬 Love building projects, hosting competitions, and mentoring students  
+- 🌍 Based in Ames, Iowa (originally from Karachi, Pakistan)  
+- 📫 Reach me at **IamSibtainAhmed@gmail.com**  
 
 <!-- PLATFORMS -->
 ## Let's Connect
